@@ -1,0 +1,11 @@
+E:\CPS LAB\Practice Mids\Practice Mids\bin\Debug\Practice Mids.exe.config
+E:\CPS LAB\Practice Mids\Practice Mids\bin\Debug\Practice Mids.exe
+E:\CPS LAB\Practice Mids\Practice Mids\bin\Debug\Practice Mids.pdb
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice Mids.csproj.AssemblyReference.cache
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice Mids.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice_Mids.Form1.resources
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice_Mids.Properties.Resources.resources
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice Mids.csproj.GenerateResource.cache
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice Mids.csproj.CoreCompileInputs.cache
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice Mids.exe
+E:\CPS LAB\Practice Mids\Practice Mids\obj\Debug\Practice Mids.pdb
